@@ -6,22 +6,33 @@
 
 ---
 
-## 2. 如何安装这个浏览器插件 Install chrome extension
+## 2.如何更新插件
+
+---
+
+### Windows 
+
+请先下载最新版的[`ASmallPlugin.zip`](https://github.com/wukailu/ASmallPlugin/blob/master/ASmallPlugin.zip?raw=true)。
+
+现在完成后，解压并覆盖原有文件，然后打开[扩展程序页面]("chrome://extensions/")，并点击刷新即可（如果你的页面不是这样的，请点击`重新加载`）。
+
+![title](https://leanote.com/api/file/getImage?fileId=5ac33f4bab6441032200177b)
+
+---
 
 ### MacOS or Ubuntu
 
-请先下载[`ASmallPlugin.crx`](https://github.com/wukailu/ASmallPlugin/blob/master/ASmallPlugin.crx?raw=true)，如果因Chrome浏览器拦截导致的无法下载，请下载[`ASmallPlugin.noSuffix`](https://github.com/wukailu/ASmallPlugin/blob/master/ASmallPlugin.noSuffix?raw=true)并修改后缀名为`crx`。
+请先下载最新版的[`ASmallPlugin.crx`](https://github.com/wukailu/ASmallPlugin/blob/master/ASmallPlugin.crx?raw=true)，如果因Chrome浏览器拦截导致的无法下载，请下载[`ASmallPlugin.noSuffix`](https://github.com/wukailu/ASmallPlugin/blob/master/ASmallPlugin.noSuffix?raw=true)并修改后缀名为`crx`。
 
 然后打开Chrome浏览器的[扩展程序页面]("chrome://extensions/")(右上方`设置` --> `更多工具` --> `扩展程序`)。
 
 ![扩展程序](https://leanote.com/api/file/getImage?fileId=5ac31ec3ab64410131001223)
 
-找到之前下载的crx文件，拖拽至该页面即可安装。
-![install](https://leanote.com/api/file/getImage?fileId=5ac33623ab6441013100167d)
+找到之前下载的crx文件，拖拽至该页面并松手即可完成更新。
 
-请点击添加扩展程序即可完成安装，安装完成后`crx`安装包可以删除。
+---
 
-如果你依旧安装不成功，请采用windows的安装方式。
+## 3. 如何安装这个浏览器插件 Install chrome extension
 
 ---
 
@@ -53,28 +64,23 @@
 
 ---
 
-## 如何更新
-
 ### MacOS or Ubuntu
 
-请先下载最新版的[`ASmallPlugin.crx`](https://github.com/wukailu/ASmallPlugin/blob/master/ASmallPlugin.crx?raw=true)，如果因Chrome浏览器拦截导致的无法下载，请下载[`ASmallPlugin.noSuffix`](https://github.com/wukailu/ASmallPlugin/blob/master/ASmallPlugin.noSuffix?raw=true)并修改后缀名为`crx`。
+请先下载[`ASmallPlugin.crx`](https://github.com/wukailu/ASmallPlugin/blob/master/ASmallPlugin.crx?raw=true)，如果因Chrome浏览器拦截导致的无法下载，请下载[`ASmallPlugin.noSuffix`](https://github.com/wukailu/ASmallPlugin/blob/master/ASmallPlugin.noSuffix?raw=true)并修改后缀名为`crx`。
 
-然后打开Chrome浏览器的扩展程序页面(右上方`设置` --> `更多工具` --> `扩展程序`)。
+然后打开Chrome浏览器的[扩展程序页面]("chrome://extensions/")(右上方`设置` --> `更多工具` --> `扩展程序`)。
 
 ![扩展程序](https://leanote.com/api/file/getImage?fileId=5ac31ec3ab64410131001223)
 
-找到之前下载的crx文件，拖拽至该页面并松手即可完成更新。
+找到之前下载的crx文件，拖拽至该页面即可安装。
+![install](https://leanote.com/api/file/getImage?fileId=5ac33623ab6441013100167d)
+
+请点击添加扩展程序即可完成安装，安装完成后`crx`安装包可以删除。
+
+如果你依旧安装不成功，请采用windows的安装方式。
 
 ---
 
-### Windows 
-
-请先下载最新版的[`ASmallPlugin.zip`](https://github.com/wukailu/ASmallPlugin/blob/master/ASmallPlugin.zip?raw=true)。
-
-现在完成后，解压并覆盖原有文件，然后打开[扩展程序页面]("chrome://extensions/")，并点击刷新即可（如果你的页面不是这样的，请点击`重新加载`）。
-
-![title](https://leanote.com/api/file/getImage?fileId=5ac33f4bab6441032200177b)
-
----
 ## 4. 反馈信息的页面 Visit feedback page
+
 https://www.image-feedback.com
