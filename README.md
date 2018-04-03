@@ -14,7 +14,7 @@
 
 请先下载最新版的[`ASmallPlugin.zip`](https://github.com/wukailu/ASmallPlugin/blob/master/ASmallPlugin.zip?raw=true)。
 
-现在完成后，解压并覆盖原有文件，然后打开[扩展程序页面]("chrome://extensions/")，并点击刷新即可（如果你的页面不是这样的，请点击`重新加载`）。
+下载完成后，解压并覆盖原有文件，然后打开[扩展程序页面]("chrome://extensions/")，并点击刷新即可（如果你的页面不是这样的，请点击`重新加载`）。
 
 ![title](https://leanote.com/api/file/getImage?fileId=5ac33f4bab6441032200177b)
 
